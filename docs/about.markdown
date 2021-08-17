@@ -9,4 +9,4 @@ permalink: /about/
 本站使用jekyll进行部署。
 
 你可以在GitHub上找到jekyll的源代码：
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization](https://github.com/jekyll)
